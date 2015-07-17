@@ -1,0 +1,24 @@
+##################################################
+# Units: mm
+
+Layer Thickness: 0.2
+
+Line Width: 0.4
+
+Infill Percent: 20%
+
+Number Perimeters: 3
+
+Number Solid Bottom Layers: 3
+
+Number Solid Top Layers: 4 
+
+Infill Pattern: Rectilinear
+
+Special Instuctions: 
+
+Ask Jeff to fiddle with the line width and write it down.
+
+
+
+
