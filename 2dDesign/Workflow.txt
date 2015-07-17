@@ -1,0 +1,3 @@
+Solidworks Part > Export to DXF Drawing > CamBam > SVG > PDF
+
+TL;DR PDF is final- ish for laser cutting
